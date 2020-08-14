@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "text" : "Home",
+        "link" : "/beranda"
+    },
+    {
+        "id" : 2,
+        "text" : "Terpopuler",
+        "link" : "/nav/populer"
+    },
+    {
+        "id" : 3,
+        "text" : "Terbaru",
+        "link" : "/nav/terbaru"
+    },
+    {
+        "id" : 4,
+        "text" : "Hangat",
+        "link" : "/nav/hangat"
+    }
+]
